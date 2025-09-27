@@ -1,0 +1,24 @@
+name: Build Docker Container
+
+on:
+  push:
+    branches: [ main, desarrollo-documentacion ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout código
+      uses: actions/checkout@v3
+      
+    - name: Build Docker image
+      run: |
+        docker build -t mi-aplicacion:latest .
+        
+    - name: Verify Docker image
+      run: |
+        docker images
+        echo "Container built successfully"
