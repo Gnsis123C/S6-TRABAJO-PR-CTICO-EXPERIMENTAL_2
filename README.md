@@ -1,8 +1,8 @@
 # PROYECTO POS STORE 
-Sistema de POS para el curso de django avanzado II
+Sistema de POS para el curso de django avanzado extremo II
 ## Pasos para la instalación del software
 
-Este proyecto inicio desde el año 2019 para los siguientes cursos de mi canal de [Youtube](https://www.youtube.com/c/AlgoriSoft "Youtube"):
+Este proyecto inicio desde el año 2025 para los siguientes cursos de mi canal de [Youtube](https://www.youtube.com/c/AlgoriSoft "Youtube"):
 
 - [Curso de Python con Django de 0 a Máster | Español](https://youtube.com/playlist?list=PLxm9hnvxnn-j5ZDOgQS63UIBxQytPdCG7 "Curso de Python con Django de 0 a Máster | Español")
 - [Curso de Deploy de un Proyecto Django en un VPS Ubuntu | Español](https://youtube.com/playlist?list=PLxm9hnvxnn-hFNSoNrWM0LalFnSv5oMas "Curso de Deploy de un Proyecto Django en un VPS Ubuntu | Español")
@@ -40,7 +40,7 @@ Si estas usando Windows debe descargar el complemento de [GTK3 installer](https:
 
 Si estas usando Linux debes instalar las [librerias](https://doc.courtbouillon.org/weasyprint/stable/first_steps.html#linux "librerias") correspondientes a la distribución que tenga instalado en su computador.
 
-##### 4) Activar el entorno virtual de nuestro proyecto
+##### 4) Activar el entorno virtual de nuestro proyecto Quintana - Morales
 
 Para windows:
 
